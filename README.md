@@ -7,7 +7,8 @@ International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (
 **Legacy website&nbsp;: &nbsp;[https://pieter-degroote.github.io/UltimateKEYS-legacy/](https://pieter-degroote.github.io/UltimateKEYS-legacy/)**
 
 **Official release&nbsp;:**&emsp;[![GitHub Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS.svg)](https://github.com/pieter-degroote/UltimateKEYS/releases)  
-**Testing release&nbsp;:**&emsp;[![GitHub Testing](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-testing.svg?label=testing)](https://github.com/pieter-degroote/UltimateKEYS-testing/releases)
+**Testing release&nbsp;:**&emsp;[![GitHub Testing](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-testing.svg?label=testing)](https://github.com/pieter-degroote/UltimateKEYS-testing/releases)  
+**Testing release&nbsp;:**&emsp;[![GitHub Testing](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-legacy.svg?label=testing)](https://github.com/pieter-degroote/UltimateKEYS-legacy/releases)
 
 ## Important - Security Warning&nbsp;:
 
