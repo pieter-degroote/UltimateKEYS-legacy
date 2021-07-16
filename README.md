@@ -1,6 +1,6 @@
 # UltimateKEYS - Legacy Releases (Windows/Linux)
 
-International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (Win), MSKLC (Win), Xmodmap (Linux) and XKB (Linux, experimental). Derived from EurKEY (by Steffen Brüntjen).
+International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (Win), MSKLC (Win), XKB (Linux) and Xmodmap (Linux). Derived from EurKEY (by Steffen Brüntjen).
 
 **=&gt; Contains legacy versions of UltimateKEYS**        
 &nbsp;  
