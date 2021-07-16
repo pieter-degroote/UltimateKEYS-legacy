@@ -4,12 +4,6 @@ Testing repository for UltimateKEYS
 **Official release&nbsp;:**&emsp;[![GitHub Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS.svg)](https://github.com/pieter-degroote/UltimateKEYS/releases)  
 **Testing release&nbsp;:**&emsp;[![GitHub Testing](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-testing.svg?label=testing)](https://github.com/pieter-degroote/UltimateKEYS-testing/releases)
 
-## Compact Edition (CE)&nbsp;:
-
-This slimmed down ‘Compact Edition’ (CE) allows for easier input when using Western languages.  
-Please note that this is a test version.  
-See the folder **`compact-edition`** for overlay scripts and images.
-
 ## Support for AutoHotkey v2.0 alpha&nbsp;:
 
 See the folder **`autohotkey-v2.0-alpha`** for experimental support.
