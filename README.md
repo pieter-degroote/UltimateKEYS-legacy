@@ -18,8 +18,6 @@ Otherwise, it might be impossible to type any Unicode character higher than “B
 
 ## Website&nbsp;: &nbsp;[ultimatekeys.info](https://pieter-degroote.github.io/UltimateKEYS/)
 
-### ([https://pieter-degroote.github.io/UltimateKEYS/](https://pieter-degroote.github.io/UltimateKEYS/))
-
 ## Releases&nbsp;: &nbsp;https://github.com/pieter-degroote/UltimateKEYS/releases
 
 ## Testing Repository - Additional experimental versions&nbsp;:
