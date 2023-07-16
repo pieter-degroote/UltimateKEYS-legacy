@@ -2,7 +2,7 @@
 
 International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (Win), MSKLC (Win), XKB (Linux) and Xmodmap (Linux). Derived from EurKEY (by Steffen Brüntjen).
 
-**=&gt; Contains legacy versions of UltimateKEYS**        
+**=&gt; Legacy versions of UltimateKEYS**        
 &nbsp;  
 **Legacy website&nbsp;: &nbsp;[https://pieter-degroote.github.io/UltimateKEYS-legacy/](https://pieter-degroote.github.io/UltimateKEYS-legacy/)**
 
