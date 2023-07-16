@@ -12,12 +12,12 @@ International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (
 
 ## Important - Security Warning&nbsp;:
 
-**=&gt; Win/Linux&nbsp;: &nbsp;Only use “BASIC LATIN” characters (codes 32 to 126) for your Windows, Microsoft Live and Linux passwords&nbsp;!**  
-Otherwise, it might be impossible to type any Unicode character higher than “Basic Latin” at the login screen/prompt (due to a different keyboard configuration) !&emsp;**=&gt;&emsp;ACCOUNT LOCKOUT**
+**=&gt; Win/Linux&nbsp;: &nbsp;Only use "BASIC LATIN" characters (codes 32 to 126) for your Windows, Microsoft Live and Linux passwords&nbsp;!**  
+Otherwise, it might be impossible to type any Unicode character higher than "Basic Latin" at the login screen/prompt (due to a different keyboard configuration) !&emsp;**=&gt;&emsp;ACCOUNT LOCKOUT**
 
 **=&gt; Win/Linux&nbsp;: &nbsp;ALWAYS make your system passwords VISIBLE during modification&nbsp;!**
 
-## Website&nbsp;: &nbsp;[ultimatekeys.info](https://pieter-degroote.github.io/UltimateKEYS/)
+## Website&nbsp;: &nbsp;[www.ultimatekeys.info](https://pieter-degroote.github.io/UltimateKEYS/)
 
 ## Releases&nbsp;: &nbsp;https://github.com/pieter-degroote/UltimateKEYS/releases
 
