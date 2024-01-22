@@ -1,4 +1,4 @@
-# UltimateKEYS - XKB integration (Linux)
+# UltimateKEYS Legacy - XKB integration (Linux)
 
 Integration in GNU/Linux via XKB (X11)&nbsp;:
 
