@@ -1,54 +1,34 @@
-# UltimateKEYS - Testing
-Testing repository for UltimateKEYS
+# UltimateKEYS Legacy - Testing
+Test versions of UltimateKEYS Legacy
 
 **Official release&nbsp;:**&emsp;[![GitHub Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS.svg)](https://github.com/pieter-degroote/UltimateKEYS/releases)  
 **Testing release&nbsp;:**&emsp;[![GitHub Testing](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-testing.svg?label=testing)](https://github.com/pieter-degroote/UltimateKEYS-testing/releases)  
 **Legacy release&nbsp;:**&emsp;[![GitHub Legacy](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-legacy.svg?label=legacy)](https://github.com/pieter-degroote/UltimateKEYS-legacy/releases)
 
-## Support for AutoHotkey v2.0 alpha&nbsp;:
+## UltimateKEYS - Colemak Edition
 
-See the folder **`autohotkey-v2.0-alpha`** for experimental support.
+Colemak edition of UltimateKEYS - This variant uses Colemak as its primary (or base) layout and features UltimateKEYS as its secondary (AltGr) layout.  
+See the folder **`colemak`** (for AutoHotkey v2 and v1.1 on Windows, and XKB/Xmodmap on Linux).
 
-## Overlay scripts for US-International keyboard layout&nbsp;:
+## UltimateKEYS - '.keylayout' format (macOS)
 
-See the folder **`autohotkey-kbdusx`** for overlay scripts for “United States-International”.
+A '.keylayout' file for macOS (without Compose Key). Note that this work is still in its testing stage (install/integrate at your own risk!).  
+Please carefully read the 'Known Issues - Disclaimer' section in its README.md *before* installing/integrating&nbsp;!  
+See the folder **`keylayout`** for further details.
 
-These scripts should have the exact same functionality as the main editions, but are intended as overlays for “United States-International” (all other AHK scripts are overlays for standard US QWERTY instead).
+## UltimateKEYS - SW ('Switched') variant
 
-## AZERTY version&nbsp;:
+With this modification, the symbols !, @, #, $, %, ^, &, \*, (, ) are directly accessible and the numbers via Shift.  
+See the folder **`sw-variant`** for further details.
 
-See the folder **`azerty-test`** for an experimental edition featuring an AZERTY version of the keyboard layout.
+## Belgian AZERTY
 
-## Belgian AZERTY&nbsp;:
+Belgian AZERTY layout in AHK (overlay scripts for US QWERTY). These scripts can also be used to learn about the different key remappings and assignments in AutoHotkey v2 and v1.1. See the folder **`belgian-azerty`**.
 
-Belgian AZERTY layouts in AHK (overlay scripts for US QWERTY). These scripts can also be used to learn about the different key remappings and assignments in AutoHotkey v1.1 and v2.0 alpha.
+## Important - Security Warning
 
-## Polish Programmers&nbsp;:
-
-A keyboard layout (for AutoHotkey), tailored for Polish programmers (testing).  
-See the folder **`polish-prog`** for overlay scripts and images.
-
-## Romanian Programmers&nbsp;:
-
-A keyboard layout (for AutoHotkey), tailored for Romanian programmers (testing).  
-See the folder **`romanian-prog`** for overlay scripts and images.
-
-## Colemak keyboard layout&nbsp;:
-
-This is a test version featuring ‘Colemak’ as the base layout.  
-See the folder **`colemak-test`** for overlay scripts and images.
-
-## Switching between ‘Classic’ and ‘SW’ operation with Scroll Lock
-
-These versions allow you to switch dynamically between ‘Classic’ and ‘SW’ by using the Scroll Lock toggle.  
-Scroll Lock off&nbsp;: &nbsp;‘Classic’ operation  
-Scroll Lock on&nbsp;: &nbsp;‘SW’ operation  
-**-&gt; Implemented into the SW editions for AutoHotkey.**
-
-## Important - Security Warning&nbsp;:
-
-**=&gt; Win/Linux&nbsp;: &nbsp;Only use “BASIC LATIN” characters (codes 32 to 126) for your Windows, Microsoft Live and Linux passwords&nbsp;!**  
-Otherwise, it might be impossible to type any Unicode character higher than “Basic Latin” at the login screen/prompt (due to a different keyboard configuration) !&emsp;**=&gt;&emsp;ACCOUNT LOCKOUT**
+**=&gt; Win/Linux&nbsp;: &nbsp;Only use "BASIC LATIN" characters (codes 32 to 126) for your Windows, Microsoft Live and Linux passwords&nbsp;!**  
+Otherwise, it might be impossible to type any Unicode character higher than "Basic Latin" at the login screen/prompt (due to a different keyboard configuration) !&emsp;**=&gt;&emsp;ACCOUNT LOCKOUT**
 
 **=&gt; Win/Linux&nbsp;: &nbsp;ALWAYS make your system passwords VISIBLE during modification&nbsp;!**
 
@@ -58,4 +38,4 @@ Otherwise, it might be impossible to type any Unicode character higher than “B
 
 **Releases&nbsp;: &nbsp;https://github.com/pieter-degroote/UltimateKEYS/releases**
 
-**Website&nbsp;: &nbsp;[ultimatekeys.info &nbsp;(https://pieter-degroote.github.io/UltimateKEYS/)](https://pieter-degroote.github.io/UltimateKEYS/)**
+**Websites&nbsp;: &nbsp;[www.ultimatekeys.info](https://pieter-degroote.github.io/UltimateKEYS/) ~ [www.pieter-degroote.info](https://pieter-degroote.github.io/)**
