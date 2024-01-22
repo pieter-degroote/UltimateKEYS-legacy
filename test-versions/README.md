@@ -21,6 +21,12 @@ See the folder **`keylayout`** for further details.
 With this modification, the symbols !, @, #, $, %, ^, &, \*, (, ) are directly accessible and the numbers via Shift.  
 See the folder **`sw-variant`** for further details.
 
+## AutoHotkey - Caps Lock modifications
+
+These modifications feature a second 'Right Alt' (AltGr) or 'Backspace' key via 'Caps Lock'.  
+The classic 'Caps Lock' behavior can be triggered (or toggled) by pressing both Shift keys together.  
+See the folder **`autohotkey-capslock-mods`** for instructions.
+
 ## Belgian AZERTY
 
 Belgian AZERTY layout in AHK (overlay scripts for US QWERTY). These scripts can also be used to learn about the different key remappings and assignments in AutoHotkey v2 and v1.1. See the folder **`belgian-azerty`**.
