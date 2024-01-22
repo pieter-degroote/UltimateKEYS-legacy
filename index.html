@@ -27,45 +27,31 @@ Stand with the People of Ukraine<br />
 
 <h1>UltimateKEYS Keyboard Layout (Windows/Linux) - Legacy</h1>
 
-<p>International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (Win), MSKLC (Win), XKB (Linux) and Xmodmap (Linux).<br />
+<p>International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (Win), MSKLC (Win) and XKB/Xmodmap + .XCompose (Linux).<br />
 <a href="https://github.com/pieter-degroote/UltimateKEYS/releases" target="_blank"><img src="https://img.shields.io/github/release/pieter-degroote/UltimateKEYS.svg" alt="GitHub Release" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/pieter-degroote/UltimateKEYS-testing/releases" target="_blank"><img src="https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-testing.svg?label=testing" alt="GitHub Testing" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/pieter-degroote/UltimateKEYS-legacy/releases" target="_blank"><img src="https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-legacy.svg?label=legacy" alt="GitHub Legacy" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pieter-degroote.github.io/UltimateKEYS/"><strong>UltimateKEYS.info</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pieter-degroote.github.io/"><strong>Pieter-Degroote.info</strong></a></p>
 
-<p>UltimateKEYS keeps all keys exactly like US QWERTY, but holding down <em>AltGr (Right Alt)</em> or <em>AltGr+Shift (Right Alt + Shift)</em> makes other diacritics and symbols accessible, and turns some keys into dead keys.</p>
+<p><img src="images/UltimateKEYS Legacy - Keyboard Layout Image.png" width="1208" height="425" alt="UltimateKEYS Legacy - Keyboard Layout Image.png" /></p>
 
-<p>This way, it shares some similarities with "US-International". However, this project attempts to solve the most common difficulties from its counterpart.<br />
-One of those&nbsp;: &nbsp;the <em>quotes issue</em>, with ' and " now accessible as usual. The similar-looking diacritics are now found on AltGr+' and AltGr+Shift+".<br />
-Further on, UltimateKEYS <em>attempts to harmonize</em> languages with Latin-based alphabets on US QWERTY, and has borrowed some aspects from EurKEY (GPL v3).</p>
+<p>=&gt; CP key (blue)&nbsp;: &nbsp;Compose Key (Multi_key), in combination with <em>Right Alt</em> or <em>AltGr</em>.<br />
+=&gt; Note that the ISO key (next to Left Shift) is not present on standard ANSI keyboards.</p>
 
-<p>The feature "Smart error-tolerant optimization for circumflex in French" allows typing the letters â, ê, î, ô, û more easily.<br />
-The AHK versions also have a 'Hybrid SW' edition that allows switching between 'Classic' and 'SW' using the Scroll Lock toggle.</p>
+<p>UltimateKEYS keeps all base keys the same as US QWERTY. However, holding down <em>Right Alt</em> or <em>Right Alt + Shift</em> makes other diacritics and symbols accessible.<br />
+Via the 'Compose Key' (CP), even more diacritics and symbols can be accessed.</p>
+
+<p>It also shares some similarities with "US-International". However, this project attempts to solve the most common difficulties from this counterpart.<br />
+One of those&nbsp;: &nbsp;the <em>quotes issue</em>, with ' and " now accessible as usual (or expected).<br />
+Further on, UltimateKEYS <em>attempts to harmonize</em> languages with Latin-based alphabets on US QWERTY, and has borrowed some aspects from EurKEY (also GPL v3).</p>
 
 <p style="font-size: 120%;"><strong>=&gt; These pages feature the legacy version of UltimateKEYS.<br />
 =&gt; Latest releases can be found at&nbsp;: &nbsp;<a href="https://pieter-degroote.github.io/UltimateKEYS/">UltimateKEYS website</a></strong></p>
+
+<p>&nbsp;</p>
 
 <h2>Important - Security Warning</h2>
 
 <p><strong>=&gt; Win/Linux&nbsp;: &nbsp;<span style="text-decoration: underline;">Only use "BASIC LATIN" characters (codes 32 to 126) for your Windows, Microsoft Live and Linux passwords&nbsp;!</span></strong><br />
 Otherwise, it might be impossible to type any Unicode character higher than "Basic Latin" at the login screen/prompt (due to a different keyboard configuration)&nbsp;!&nbsp;&nbsp;<strong>=&gt;&nbsp;&nbsp;ACCOUNT LOCKOUT<br />
 =&gt; Win/Linux&nbsp;: &nbsp;<span style="text-decoration: underline;">ALWAYS make your system passwords VISIBLE during modification&nbsp;!</span></strong></p>
-
-<p>&nbsp;</p>
-
-<h2>Keyboard Layout Image - Legacy (Classic)</h2>
-
-<p><img src="images/UltimateKEYS - Keyboard Layout Image.png" width="1208" height="425" alt="UltimateKEYS - Keyboard Layout Image.png" /></p>
-
-<p>-&gt; Blue keys&nbsp;: &nbsp;dead keys in combination with <em>Right Alt (+Shift)</em> or <em>AltGr (+Shift)</em>.</p>
-
-<p>&nbsp;</p>
-
-<h2>Difference between Classic and SW (switched) editions</h2>
-
-<ul>
-<li><strong>Classic</strong>&nbsp;: &nbsp;Keeps all standard keys on US QWERTY and adds customizations to the <em>Right Alt (+Shift)</em> modifier (see image above).</li>
-<li><strong>SW (switched)</strong>&nbsp;: &nbsp;The same as 'Classic', but when <span style="text-decoration: underline;">Scroll Lock</span> is enabled, the symbols !, @, #, $, %, ^, &amp;, *, (, ) are directly accessible, the numbers via Shift (as many keyboards have a separate numpad). The Scroll Lock toggle applies to AutoHotkey only.<br />
-<span style="font-size: 120%;"><a href="image-sw.html" target="_blank"><strong>-&gt; Layout image of SW edition with Scroll Lock on</strong></a></span>&nbsp;&nbsp;
-(Image sources included in the repository.)</li>
-</ul>
 
 <p>&nbsp;</p>
 
