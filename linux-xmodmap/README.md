@@ -1,4 +1,4 @@
-# UltimateKEYS - Xmodmap (Linux)
+# UltimateKEYS Legacy - Xmodmap (Linux)
 
 Xmodmap deployment on GNU/Linux&nbsp;:
 
