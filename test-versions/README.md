@@ -6,9 +6,9 @@ Test versions of UltimateKEYS Legacy
 **Testing release&nbsp;:**&emsp;[![GitHub Testing](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-testing.svg?label=testing)](https://github.com/pieter-degroote/UltimateKEYS-testing/releases)  
 **Legacy release&nbsp;:**&emsp;[![GitHub Legacy](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-legacy.svg?label=legacy)](https://github.com/pieter-degroote/UltimateKEYS-legacy/releases)
 
-## UltimateKEYS - Colemak Edition
+## UltimateKEYS - Colemak Variant
 
-Colemak edition of UltimateKEYS - This variant uses Colemak as its primary (or base) layout and features UltimateKEYS as its secondary (AltGr) layout.  
+Colemak variant of UltimateKEYS - This variant uses Colemak as its primary (or base) layout and features UltimateKEYS as its secondary (AltGr) layout.  
 See the folder **`colemak`** (for AutoHotkey v2 and v1.1 on Windows, and XKB/Xmodmap on Linux).
 
 ## UltimateKEYS - '.keylayout' format (macOS)
