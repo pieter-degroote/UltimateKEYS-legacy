@@ -10,7 +10,7 @@ International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (
 **Testing release&nbsp;:**&emsp;[![GitHub Testing](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-testing.svg?label=testing)](https://github.com/pieter-degroote/UltimateKEYS-testing/releases)  
 **Legacy release&nbsp;:**&emsp;[![GitHub Legacy](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-legacy.svg?label=legacy)](https://github.com/pieter-degroote/UltimateKEYS-legacy/releases)
 
-## Keyboard Layout Image
+## Keyboard Layout Image - Legacy Version
 
 ![UltimateKEYS Legacy - Keyboard Layout Image](images/UltimateKEYS%20Legacy%20-%20Keyboard%20Layout%20Image.png)
 
