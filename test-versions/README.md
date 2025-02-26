@@ -22,12 +22,6 @@ See the folder **`keylayout`** for further details.
 With this modification, the symbols !, @, #, $, %, ^, &, \*, (, ) are directly accessible and the numbers via Shift.  
 See the folder **`sw-variant`** for further details.
 
-## AutoHotkey - Caps Lock modifications
-
-These modifications feature a second AltGr (Right Alt) or Backspace key via Caps Lock.  
-The classic Caps Lock behavior can be triggered (or toggled) by pressing both Shift keys together.  
-See the folder **`ahk-capslock-mods`** for instructions.
-
 ## Important - Security Warning
 
 **=&gt; Win/Linux&nbsp;: &nbsp;Only use "BASIC LATIN" characters (codes 32 to 126) for your Windows, Microsoft Live and Linux passwords&nbsp;!**  
