@@ -7,4 +7,4 @@
 
 ## Keyboard Layout Image
 
-![UltimateKEYS Legacy - Keyboard Layout Image](/images/UltimateKEYS%20Legacy%20-%20Keyboard%20Layout%20Image.png)
+![UltimateKEYS - Keyboard Layout Image](/images/UltimateKEYS%20-%20Keyboard%20Layout%20Image.png)
