@@ -2,14 +2,24 @@
 
 ## Prerequisites
 
-These AutoHotkey scripts are highly customizable editions of UltimateKEYS Legacy. To work properly, the Windows main/base keyboard layout has to be set to either&nbsp;:
+These AutoHotkey scripts are highly customizable editions of UltimateKEYS. To work properly, the Windows main/base keyboard layout has to be set to&nbsp;:
 
-- **Hausa (Latin, Nigeria)** =&gt; AltGr assigned to UltimateKEYS Legacy (based on US QWERTY).
-- **Romanian (Programmers)** =&gt; AltGr assigned to UltimateKEYS Legacy (based on US QWERTY).
-- **English (India)** =&gt; AltGr assigned to UltimateKEYS Legacy (based on US QWERTY).
-- **United States (US)** =&gt; Right Alt assigned to UltimateKEYS Legacy (secondary choice).
+**=&gt; AltGr assigned to UltimateKEYS**
 
-  (Notes: "Romanian (Programmers)" does not contain some special control codes (Ctrl+\[: u+001b, Ctrl+\\: u+001c, Ctrl+\]: u+001d), but I could not find any specific use cases requiring these mappings. "English (India)" also emits an Indian rupee sign (₹) via Ctrl+Shift+4.)
+- [UltimateKEYS (MSKLC implementation)](https://pieter-degroote.github.io/UltimateKEYS/integration-msklc.html)&emsp;[![Core Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-core.svg?label=core)](https://github.com/pieter-degroote/UltimateKEYS-core/releases)
+- [US QWERTY (Euro)](https://github.com/pieter-degroote/us-qwerty-euro)&emsp;[![Core Release](https://img.shields.io/github/release/pieter-degroote/us-qwerty-euro.svg)](https://github.com/pieter-degroote/us-qwerty-euro/releases)
+- [US Intl AltGr dead keys](https://github.com/pieter-degroote/us-intl-altgr-dk)&emsp;[![Core Release](https://img.shields.io/github/release/pieter-degroote/us-intl-altgr-dk.svg)](https://github.com/pieter-degroote/us-intl-altgr-dk/releases)
+- [UltimateKEYS Legacy (MSKLC implementation)](https://github.com/pieter-degroote/UltimateKEYS-legacy)&emsp;[![Core Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-legacy.svg?label=core)](https://github.com/pieter-degroote/UltimateKEYS-legacy/releases)
+- Hausa (Latin, Nigeria) (based on US QWERTY, see settings)
+- Romanian (Programmers) (based on US QWERTY, see settings)
+- English (India) (based on US QWERTY, see settings)
+- or any other layout that is fully based on US QWERTY
+
+**=&gt; Right Alt assigned to UltimateKEYS (secondary choice)**
+
+- United States (US)
+
+Notes&nbsp;: &nbsp;"Romanian (Programmers)" does not contain some special control codes (Ctrl+\[: u+001b, Ctrl+\\: u+001c, Ctrl+\]: u+001d), but I could not find any specific use cases requiring these mappings. "English (India)" also emits an Indian rupee sign (₹) via Ctrl+Shift+4.
 
 **_Note about the standard base US layout&nbsp;:_**
 
@@ -20,4 +30,4 @@ Please note that on the standard US QWERTY, the sequence 'Left Alt + Shift' also
 
 ## Keyboard Layout Image
 
-![UltimateKEYS Legacy - Keyboard Layout Image](/images/UltimateKEYS%20Legacy%20-%20Keyboard%20Layout%20Image.png)
+![UltimateKEYS - Keyboard Layout Image](/images/UltimateKEYS%20-%20Keyboard%20Layout%20Image.png)
