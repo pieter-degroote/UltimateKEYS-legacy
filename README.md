@@ -1,4 +1,4 @@
-# UltimateKEYS - Legacy Version (Windows/Linux)
+# UltimateKEYS Keyboard Layout - Legacy
 
 International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (Win), MSKLC (Win) and XKB/Xmodmap (Linux). This layout has borrowed some aspects from EurKEY and US-International.
 
@@ -10,12 +10,18 @@ International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (
 **Testing release&nbsp;:**&emsp;[![GitHub Testing](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-testing.svg?label=testing)](https://github.com/pieter-degroote/UltimateKEYS-testing/releases)  
 **Legacy release&nbsp;:**&emsp;[![GitHub Legacy](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-legacy.svg?label=legacy)](https://github.com/pieter-degroote/UltimateKEYS-legacy/releases)
 
-## Keyboard Layout Image - Legacy Version
+## Keyboard Layout Image (legacy)
 
-![UltimateKEYS Legacy - Keyboard Layout Image](images/UltimateKEYS%20Legacy%20-%20Keyboard%20Layout%20Image.png)
+![UltimateKEYS - Keyboard Layout Image](images/UltimateKEYS%20-%20Keyboard%20Layout%20Image.png)
 
-=&gt; CP key (blue) : &nbsp;[Compose Key](https://pieter-degroote.github.io/UltimateKEYS-legacy/documentation.html#Compose_Key_Sequences) (Multi_key), in combination with AltGr (Right Alt).  
+=&gt; CP key (blue) : &nbsp;Compose Key (Multi_key), in combination with AltGr (Right Alt) (only with AutoHotkey and Linux).  
 =&gt; Note that the ISO key (next to Left Shift) is not present on standard ANSI keyboards.
+
+## Keyboard Layout Image - MSKLC (legacy)
+
+![UltimateKEYS - Keyboard Layout Image](images/UltimateKEYS%20(MSKLC)%20-%20Keyboard%20Layout%20Image.png)
+
+=&gt; Without Compose Key, since MSKLC does not support multiple keystrokes as a sequence for a dead key.
 
 ## Important Notice - Security
 
