@@ -1,4 +1,4 @@
-# UltimateKEYS Keyboard Layout - Legacy
+# UltimateKEYS Legacy (Windows/Linux)
 
 International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (Win), MSKLC (Win) and XKB/Xmodmap (Linux). This layout has borrowed some aspects from EurKEY and US-International.
 
