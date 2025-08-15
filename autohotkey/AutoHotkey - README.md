@@ -1,6 +1,6 @@
-# UltimateKEYS - Legacy (AutoHotkey v2/v1.1)
+# UltimateKEYS Legacy (AutoHotkey v2/v1.1)
 
-These modifications will change the scripts into their previous 'legacy' versions.
+These modifications will change the scripts into their 'legacy' versions.
 
 ## After the 'Compose Key Sequences', replace all code in the 'Configuration' sections
 
@@ -325,64 +325,64 @@ These modifications will change the scripts into their previous 'legacy' version
 >!sc021::
 <^>!sc021:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00c8}"  ; (È) E with grave
+    Send "{u+00c9}"  ; (É) E with acute
   else
-    Send "{u+00e8}"  ; (è) e with grave
+    Send "{u+00e9}"  ; (é) e with acute
 }
 >!+sc021::
 <^>!+sc021:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00e8}"  ; (è) e with grave
+    Send "{u+00e9}"  ; (é) e with acute
   else
-    Send "{u+00c8}"  ; (È) E with grave
+    Send "{u+00c9}"  ; (É) E with acute
 }
 
 ; Key :  G
 >!sc022::
 <^>!sc022:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00c9}"  ; (É) E with acute
+    Send "{u+00c8}"  ; (È) E with grave
   else
-    Send "{u+00e9}"  ; (é) e with acute
+    Send "{u+00e8}"  ; (è) e with grave
 }
 >!+sc022::
 <^>!+sc022:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00e9}"  ; (é) e with acute
+    Send "{u+00e8}"  ; (è) e with grave
   else
-    Send "{u+00c9}"  ; (É) E with acute
+    Send "{u+00c8}"  ; (È) E with grave
 }
 
 ; Key :  H
 >!sc023::
 <^>!sc023:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00d9}"  ; (Ù) U with grave
+    Send "{u+00da}"  ; (Ú) U with acute
   else
-    Send "{u+00f9}"  ; (ù) u with grave
+    Send "{u+00fa}"  ; (ú) u with acute
 }
 >!+sc023::
 <^>!+sc023:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00f9}"  ; (ù) u with grave
+    Send "{u+00fa}"  ; (ú) u with acute
   else
-    Send "{u+00d9}"  ; (Ù) U with grave
+    Send "{u+00da}"  ; (Ú) U with acute
 }
 
 ; Key :  J
 >!sc024::
 <^>!sc024:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00da}"  ; (Ú) U with acute
+    Send "{u+00d9}"  ; (Ù) U with grave
   else
-    Send "{u+00fa}"  ; (ú) u with acute
+    Send "{u+00f9}"  ; (ù) u with grave
 }
 >!+sc024::
 <^>!+sc024:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00fa}"  ; (ú) u with acute
+    Send "{u+00f9}"  ; (ù) u with grave
   else
-    Send "{u+00da}"  ; (Ú) U with acute
+    Send "{u+00d9}"  ; (Ù) U with grave
 }
 
 ; Key :  K
@@ -425,9 +425,9 @@ These modifications will change the scripts into their previous 'legacy' version
 
 ; Key :  ' / " (apostrophe / quotation mark)
 >!sc028::
-<^>!sc028::Send "{u+2020}"   ; (†) dagger
+<^>!sc028::Send "{u+266a}"   ; (♪) eighth note
 >!+sc028::
-<^>!+sc028::Send "{u+2021}"  ; (‡) double dagger
+<^>!+sc028::Send "{u+266b}"  ; (♫) beamed eighth notes
 
 ; Key :  \ / | (backslash / vertical line)
 >!sc02B::
@@ -439,32 +439,32 @@ These modifications will change the scripts into their previous 'legacy' version
 >!sc02C::
 <^>!sc02C:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00c0}"  ; (À) A with grave
+    Send "{u+00c1}"  ; (Á) A with acute
   else
-    Send "{u+00e0}"  ; (à) a with grave
+    Send "{u+00e1}"  ; (á) a with acute
 }
 >!+sc02C::
 <^>!+sc02C:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00e0}"  ; (à) a with grave
+    Send "{u+00e1}"  ; (á) a with acute
   else
-    Send "{u+00c0}"  ; (À) A with grave
+    Send "{u+00c1}"  ; (Á) A with acute
 }
 
 ; Key :  X
 >!sc02D::
 <^>!sc02D:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00c1}"  ; (Á) A with acute
+    Send "{u+00c0}"  ; (À) A with grave
   else
-    Send "{u+00e1}"  ; (á) a with acute
+    Send "{u+00e0}"  ; (à) a with grave
 }
 >!+sc02D::
 <^>!+sc02D:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00e1}"  ; (á) a with acute
+    Send "{u+00e0}"  ; (à) a with grave
   else
-    Send "{u+00c1}"  ; (Á) A with acute
+    Send "{u+00c0}"  ; (À) A with grave
 }
 
 ; Key :  C
@@ -487,32 +487,32 @@ These modifications will change the scripts into their previous 'legacy' version
 >!sc02F::
 <^>!sc02F:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00cc}"  ; (Ì) I with grave
+    Send "{u+00cd}"  ; (Í) I with acute
   else
-    Send "{u+00ec}"  ; (ì) i with grave
+    Send "{u+00ed}"  ; (í) i with acute
 }
 >!+sc02F::
 <^>!+sc02F:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00ec}"  ; (ì) i with grave
+    Send "{u+00ed}"  ; (í) i with acute
   else
-    Send "{u+00cc}"  ; (Ì) I with grave
+    Send "{u+00cd}"  ; (Í) I with acute
 }
 
 ; Key :  B
 >!sc030::
 <^>!sc030:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00cd}"  ; (Í) I with acute
+    Send "{u+00cc}"  ; (Ì) I with grave
   else
-    Send "{u+00ed}"  ; (í) i with acute
+    Send "{u+00ec}"  ; (ì) i with grave
 }
 >!+sc030::
 <^>!+sc030:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00ed}"  ; (í) i with acute
+    Send "{u+00ec}"  ; (ì) i with grave
   else
-    Send "{u+00cd}"  ; (Í) I with acute
+    Send "{u+00cc}"  ; (Ì) I with grave
 }
 
 ; Key :  N
@@ -541,32 +541,32 @@ These modifications will change the scripts into their previous 'legacy' version
 >!sc033::
 <^>!sc033:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00d2}"  ; (Ò) O with grave
+    Send "{u+00d3}"  ; (Ó) O with acute
   else
-    Send "{u+00f2}"  ; (ò) o with grave
+    Send "{u+00f3}"  ; (ó) o with acute
 }
 >!+sc033::
 <^>!+sc033:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00f2}"  ; (ò) o with grave
+    Send "{u+00f3}"  ; (ó) o with acute
   else
-    Send "{u+00d2}"  ; (Ò) O with grave
+    Send "{u+00d3}"  ; (Ó) O with acute
 }
 
 ; Key :  . / > (period / greater-than sign)
 >!sc034::
 <^>!sc034:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00d3}"  ; (Ó) O with acute
+    Send "{u+00d2}"  ; (Ò) O with grave
   else
-    Send "{u+00f3}"  ; (ó) o with acute
+    Send "{u+00f2}"  ; (ò) o with grave
 }
 >!+sc034::
 <^>!+sc034:: {
   if GetKeyState("CapsLock", "T")
-    Send "{u+00f3}"  ; (ó) o with acute
+    Send "{u+00f2}"  ; (ò) o with grave
   else
-    Send "{u+00d3}"  ; (Ó) O with acute
+    Send "{u+00d2}"  ; (Ò) O with grave
 }
 
 ; Key :  / / ? (slash / question mark)
@@ -916,64 +916,64 @@ These modifications will change the scripts into their previous 'legacy' version
 >!sc021::
 <^>!sc021::
   if GetKeyState("CapsLock", "T")
-    Send {u+00c8}  ; (È) E with grave
+    Send {u+00c9}  ; (É) E with acute
   else
-    Send {u+00e8}  ; (è) e with grave
+    Send {u+00e9}  ; (é) e with acute
   return
 >!+sc021::
 <^>!+sc021::
   if GetKeyState("CapsLock", "T")
-    Send {u+00e8}  ; (è) e with grave
+    Send {u+00e9}  ; (é) e with acute
   else
-    Send {u+00c8}  ; (È) E with grave
+    Send {u+00c9}  ; (É) E with acute
   return
 
 ; Key :  G
 >!sc022::
 <^>!sc022::
   if GetKeyState("CapsLock", "T")
-    Send {u+00c9}  ; (É) E with acute
+    Send {u+00c8}  ; (È) E with grave
   else
-    Send {u+00e9}  ; (é) e with acute
+    Send {u+00e8}  ; (è) e with grave
   return
 >!+sc022::
 <^>!+sc022::
   if GetKeyState("CapsLock", "T")
-    Send {u+00e9}  ; (é) e with acute
+    Send {u+00e8}  ; (è) e with grave
   else
-    Send {u+00c9}  ; (É) E with acute
+    Send {u+00c8}  ; (È) E with grave
   return
 
 ; Key :  H
 >!sc023::
 <^>!sc023::
   if GetKeyState("CapsLock", "T")
-    Send {u+00d9}  ; (Ù) U with grave
+    Send {u+00da}  ; (Ú) U with acute
   else
-    Send {u+00f9}  ; (ù) u with grave
+    Send {u+00fa}  ; (ú) u with acute
   return
 >!+sc023::
 <^>!+sc023::
   if GetKeyState("CapsLock", "T")
-    Send {u+00f9}  ; (ù) u with grave
+    Send {u+00fa}  ; (ú) u with acute
   else
-    Send {u+00d9}  ; (Ù) U with grave
+    Send {u+00da}  ; (Ú) U with acute
   return
 
 ; Key :  J
 >!sc024::
 <^>!sc024::
   if GetKeyState("CapsLock", "T")
-    Send {u+00da}  ; (Ú) U with acute
+    Send {u+00d9}  ; (Ù) U with grave
   else
-    Send {u+00fa}  ; (ú) u with acute
+    Send {u+00f9}  ; (ù) u with grave
   return
 >!+sc024::
 <^>!+sc024::
   if GetKeyState("CapsLock", "T")
-    Send {u+00fa}  ; (ú) u with acute
+    Send {u+00f9}  ; (ù) u with grave
   else
-    Send {u+00da}  ; (Ú) U with acute
+    Send {u+00d9}  ; (Ù) U with grave
   return
 
 ; Key :  K
@@ -1016,9 +1016,9 @@ These modifications will change the scripts into their previous 'legacy' version
 
 ; Key :  ' / " (apostrophe / quotation mark)
 >!sc028::
-<^>!sc028::Send {u+2020}   ; (†) dagger
+<^>!sc028::Send {u+266a}   ; (♪) eighth note
 >!+sc028::
-<^>!+sc028::Send {u+2021}  ; (‡) double dagger
+<^>!+sc028::Send {u+266b}  ; (♫) beamed eighth notes
 
 ; Key :  \ / | (backslash / vertical line)
 >!sc02B::
@@ -1030,32 +1030,32 @@ These modifications will change the scripts into their previous 'legacy' version
 >!sc02C::
 <^>!sc02C::
   if GetKeyState("CapsLock", "T")
-    Send {u+00c0}  ; (À) A with grave
+    Send {u+00c1}  ; (Á) A with acute
   else
-    Send {u+00e0}  ; (à) a with grave
+    Send {u+00e1}  ; (á) a with acute
   return
 >!+sc02C::
 <^>!+sc02C::
   if GetKeyState("CapsLock", "T")
-    Send {u+00e0}  ; (à) a with grave
+    Send {u+00e1}  ; (á) a with acute
   else
-    Send {u+00c0}  ; (À) A with grave
+    Send {u+00c1}  ; (Á) A with acute
   return
 
 ; Key :  X
 >!sc02D::
 <^>!sc02D::
   if GetKeyState("CapsLock", "T")
-    Send {u+00c1}  ; (Á) A with acute
+    Send {u+00c0}  ; (À) A with grave
   else
-    Send {u+00e1}  ; (á) a with acute
+    Send {u+00e0}  ; (à) a with grave
   return
 >!+sc02D::
 <^>!+sc02D::
   if GetKeyState("CapsLock", "T")
-    Send {u+00e1}  ; (á) a with acute
+    Send {u+00e0}  ; (à) a with grave
   else
-    Send {u+00c1}  ; (Á) A with acute
+    Send {u+00c0}  ; (À) A with grave
   return
 
 ; Key :  C
@@ -1078,32 +1078,32 @@ These modifications will change the scripts into their previous 'legacy' version
 >!sc02F::
 <^>!sc02F::
   if GetKeyState("CapsLock", "T")
-    Send {u+00cc}  ; (Ì) I with grave
+    Send {u+00cd}  ; (Í) I with acute
   else
-    Send {u+00ec}  ; (ì) i with grave
+    Send {u+00ed}  ; (í) i with acute
   return
 >!+sc02F::
 <^>!+sc02F::
   if GetKeyState("CapsLock", "T")
-    Send {u+00ec}  ; (ì) i with grave
+    Send {u+00ed}  ; (í) i with acute
   else
-    Send {u+00cc}  ; (Ì) I with grave
+    Send {u+00cd}  ; (Í) I with acute
   return
 
 ; Key :  B
 >!sc030::
 <^>!sc030::
   if GetKeyState("CapsLock", "T")
-    Send {u+00cd}  ; (Í) I with acute
+    Send {u+00cc}  ; (Ì) I with grave
   else
-    Send {u+00ed}  ; (í) i with acute
+    Send {u+00ec}  ; (ì) i with grave
   return
 >!+sc030::
 <^>!+sc030::
   if GetKeyState("CapsLock", "T")
-    Send {u+00ed}  ; (í) i with acute
+    Send {u+00ec}  ; (ì) i with grave
   else
-    Send {u+00cd}  ; (Í) I with acute
+    Send {u+00cc}  ; (Ì) I with grave
   return
 
 ; Key :  N
@@ -1132,32 +1132,32 @@ These modifications will change the scripts into their previous 'legacy' version
 >!sc033::
 <^>!sc033::
   if GetKeyState("CapsLock", "T")
-    Send {u+00d2}  ; (Ò) O with grave
+    Send {u+00d3}  ; (Ó) O with acute
   else
-    Send {u+00f2}  ; (ò) o with grave
+    Send {u+00f3}  ; (ó) o with acute
   return
 >!+sc033::
 <^>!+sc033::
   if GetKeyState("CapsLock", "T")
-    Send {u+00f2}  ; (ò) o with grave
+    Send {u+00f3}  ; (ó) o with acute
   else
-    Send {u+00d2}  ; (Ò) O with grave
+    Send {u+00d3}  ; (Ó) O with acute
   return
 
 ; Key :  . / > (period / greater-than sign)
 >!sc034::
 <^>!sc034::
   if GetKeyState("CapsLock", "T")
-    Send {u+00d3}  ; (Ó) O with acute
+    Send {u+00d2}  ; (Ò) O with grave
   else
-    Send {u+00f3}  ; (ó) o with acute
+    Send {u+00f2}  ; (ò) o with grave
   return
 >!+sc034::
 <^>!+sc034::
   if GetKeyState("CapsLock", "T")
-    Send {u+00f3}  ; (ó) o with acute
+    Send {u+00f2}  ; (ò) o with grave
   else
-    Send {u+00d3}  ; (Ó) O with acute
+    Send {u+00d2}  ; (Ò) O with grave
   return
 
 ; Key :  / / ? (slash / question mark)
