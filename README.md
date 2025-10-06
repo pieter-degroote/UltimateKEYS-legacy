@@ -1,9 +1,17 @@
 # UltimateKEYS Legacy (Windows/Linux)
 
-International US QWERTY layout with AltGr (Right Alt) dead keys via AutoHotkey (Win), MSKLC (Win) and XKB/Xmodmap (Linux). This layout has borrowed some aspects from EurKEY and US-International.
+**International US QWERTY layout with AltGr (Right Alt) dead keys (Compose Key).**  
+This layout is based on US QWERTY, and has borrowed some aspects from EurKEY and US-International.
 
-**=&gt; Legacy version of UltimateKEYS**  
-&nbsp;  
+This release (and repository) only contains the main keyboard layout of UltimateKEYS.
+
+The additional Compose Key sequences (Multi_key) have not been included, since these may change more frequently over time.
+
+**Also note that the MSKLC version (for Windows) does not have the Compose Key, since MSKLC does not support multiple keystrokes as a sequence for a dead key.**
+
+**=&gt; Legacy version of UltimateKEYS Core**  
+**=&gt; Note that the legacy version is now aligned with&nbsp;: &nbsp;[UltimateKEYS Core](https://github.com/pieter-degroote/UltimateKEYS-core)**
+
 **Legacy website&nbsp;: &nbsp;[https://pieter-degroote.github.io/UltimateKEYS-legacy/](https://pieter-degroote.github.io/UltimateKEYS-legacy/)**
 
 **Official release&nbsp;:**&emsp;[![UltimateKEYS Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS.svg)](https://github.com/pieter-degroote/UltimateKEYS/releases)  
