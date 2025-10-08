@@ -11,7 +11,7 @@ The additional Compose Key sequences (Multi_key) have not been included, since t
 
 **=&gt; Legacy version of UltimateKEYS Core**  
 **=&gt; Note that the legacy version is now fully aligned with&nbsp;: &nbsp;[UltimateKEYS Core](https://github.com/pieter-degroote/UltimateKEYS-core)**&emsp;[![Core Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-core.svg?label=core)](https://github.com/pieter-degroote/UltimateKEYS-core/releases)  
-(This means that both repositories now have identically the same keyboard definition files.)
+(This means that both repositories now have identically the same images and keyboard definition files.)
 
 **Legacy website&nbsp;: &nbsp;[https://pieter-degroote.github.io/UltimateKEYS-legacy/](https://pieter-degroote.github.io/UltimateKEYS-legacy/)**
 
