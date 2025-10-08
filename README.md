@@ -10,7 +10,7 @@ The additional Compose Key sequences (Multi_key) have not been included, since t
 **Also note that the MSKLC version (for Windows) does not have the Compose Key, since MSKLC does not support multiple keystrokes as a sequence for a dead key.**
 
 **=&gt; Legacy version of UltimateKEYS Core**  
-**=&gt; Note that the legacy version is now aligned with&nbsp;: &nbsp;[UltimateKEYS Core](https://github.com/pieter-degroote/UltimateKEYS-core)**
+**=&gt; Note that the legacy version is now aligned with&nbsp;: &nbsp;[UltimateKEYS Core](https://github.com/pieter-degroote/UltimateKEYS-core)**&emsp;[![Core Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-core.svg?label=core)](https://github.com/pieter-degroote/UltimateKEYS-core/releases)
 
 **Legacy website&nbsp;: &nbsp;[https://pieter-degroote.github.io/UltimateKEYS-legacy/](https://pieter-degroote.github.io/UltimateKEYS-legacy/)**
 
