@@ -42,3 +42,5 @@ Otherwise, it might be impossible to type any Unicode character higher than "Bas
 ## Website and Documentation
 
 **Website&nbsp;: &nbsp;<https://pieter-degroote.github.io/>**
+
+License of UltimateKEYS&nbsp;: &nbsp;GNU General Public License Version 3 (base layout: Public Domain).
