@@ -10,8 +10,7 @@ The additional Compose Key sequences (Multi_key) have not been included, since t
 **Also note that the MSKLC version (for Windows) does not have the Compose Key, since MSKLC does not support multiple keystrokes as a sequence for a dead key.**
 
 **=\> Legacy version of UltimateKEYS Core**  
-**=\> Note that the legacy version is now fully aligned with&nbsp;: &nbsp;[UltimateKEYS Core](https://github.com/pieter-degroote/UltimateKEYS-core)**&emsp;[![Core Release](https://img.shields.io/github/release/pieter-degroote/UltimateKEYS-core.svg?label=core)](https://github.com/pieter-degroote/UltimateKEYS-core/releases)  
-(This means that both repositories now have identically the same images and keyboard definition files.)
+**=\> This legacy version has the 'cent sign' (¢) on key 5, the [latest release](https://github.com/pieter-degroote/UltimateKEYS-core) has the 'per mille sign' (‰) instead.**
 
 **Legacy website&nbsp;: &nbsp;<https://pieter-degroote.github.io/UltimateKEYS-legacy/>**
 
